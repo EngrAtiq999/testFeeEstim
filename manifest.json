@@ -1,6 +1,6 @@
 {
-  "name": "Load Meter — Cost Calculator",
-  "short_name": "Load Meter",
+  "name": "Test Report - Fee Estimation",
+  "short_name": "TR Fee Estimation",
   "description": "Calculate load costs by type and value, with an editable rate table.",
   "start_url": "./index.html",
   "display": "standalone",
